@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libSphere_handle.so -o libSphere_handle.so CMakeFiles/Sphere_handle.dir/WorkspaceSphereExplorer.cpp.o CMakeFiles/Sphere_handle.dir/WorkspaceSphere.cpp.o 

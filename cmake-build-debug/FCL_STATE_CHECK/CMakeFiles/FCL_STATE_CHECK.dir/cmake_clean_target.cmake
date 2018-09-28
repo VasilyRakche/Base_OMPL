@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libFCL_STATE_CHECK.a"
+)

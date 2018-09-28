@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FCL_STATE_CHECK"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Parse_OpenMesh&gt;FCL\;CMake Files\FCL_STATE_CHECK\;CMake Files\Sphere_handle\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fcl_state_check">
+				<Option output="/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/libfcl_state_check.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vasko/CLionProjects/Base_OMPL/../../omplapp/include"/>
+					<Add directory="/home/vasko/CLionProjects/Base_OMPL/FCL_STATE_CHECK/../../omplapp/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 fcl_state_check"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fcl_state_check/fast">
+				<Option output="/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/libfcl_state_check.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/vasko/CLionProjects/Base_OMPL/../../omplapp/include"/>
+					<Add directory="/home/vasko/CLionProjects/Base_OMPL/FCL_STATE_CHECK/../../omplapp/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 fcl_state_check/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vasko/CLionProjects/Base_OMPL/FCL_STATE_CHECK/FCL_StateInspection.cpp">
+			<Option target="fcl_state_check"/>
+		</Unit>
+		<Unit filename="/home/vasko/CLionProjects/Base_OMPL/FCL_STATE_CHECK/FCL_StateInspection.h">
+			<Option target="fcl_state_check"/>
+		</Unit>
+		<Unit filename="/home/vasko/CLionProjects/Base_OMPL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/vasko/CLionProjects/Base_OMPL/Parse_OpenMesh&gt;FCL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Parse_OpenMesh&gt;FCL\"/>
+		</Unit>
+		<Unit filename="/home/vasko/CLionProjects/Base_OMPL/FCL_STATE_CHECK/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\FCL_STATE_CHECK\"/>
+		</Unit>
+		<Unit filename="/home/vasko/CLionProjects/Base_OMPL/Sphere_handle/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Sphere_handle\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

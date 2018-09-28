@@ -1,0 +1,12 @@
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/CMakeFiles/Base_OMPL.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/Parse_OpenMesh>FCL/CMakeFiles/rebuild_cache.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/Parse_OpenMesh>FCL/CMakeFiles/edit_cache.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/Parse_OpenMesh>FCL/CMakeFiles/parse_om_fcl.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/CMakeFiles/rebuild_cache.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/CMakeFiles/edit_cache.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/FCL_STATE_CHECK/CMakeFiles/fcl_state_check.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/Sphere_handle/CMakeFiles/edit_cache.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/Sphere_handle/CMakeFiles/rebuild_cache.dir
+/home/vasko/CLionProjects/Base_OMPL/cmake-build-debug/Sphere_handle/CMakeFiles/sphere_handle.dir

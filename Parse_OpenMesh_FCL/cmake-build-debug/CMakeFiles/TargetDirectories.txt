@@ -1,0 +1,3 @@
+/home/vasko/CLionProjects/Parse_OpenMesh>FCL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vasko/CLionProjects/Parse_OpenMesh>FCL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vasko/CLionProjects/Parse_OpenMesh>FCL/cmake-build-debug/CMakeFiles/Parse_OpenMesh_FCL.dir

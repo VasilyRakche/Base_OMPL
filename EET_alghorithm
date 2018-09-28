@@ -1,0 +1,13 @@
+1)Data input:
+Done as a part of Parse_OpenMesh>FCL
+//Getting the data from file, and then converting it to fcl, returning a model
+std::shared_ptr<Model> model. model is defined in FCL//
+
+2) Function ValidityChecker for OpenMesh:
+Done as a part of FCL_STATE_CHECK, because our model is in FCL and given the
+state samples from OMPL, we are determening are they valid or not
+
+2.1)Function for determening distance to collision
+First we need to define in OMPL StateSpace, decide the boundries, put a goal and start sample.
+We are defining everything in Base_OMPL.
+In isValid_class

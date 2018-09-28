@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vasko/CLionProjects/Base_OMPL/Parse_OpenMesh>FCL/get_OpenMesh_data.cpp
+get_OpenMesh_data.h
+/home/vasko/CLionProjects/Base_OMPL/Parse_OpenMesh>FCL/get_OpenMesh_data.h
+eigen3/Eigen/Dense
+-
+
+/home/vasko/CLionProjects/Base_OMPL/Parse_OpenMesh>FCL/get_OpenMesh_data.h
+fcl/shape/geometric_shapes.h
+/home/vasko/CLionProjects/Base_OMPL/Parse_OpenMesh>FCL/fcl/shape/geometric_shapes.h
+fcl/BVH/BVH_model.h
+-
+OpenMesh/Core/IO/MeshIO.hh
+-
+OpenMesh/Core/Mesh/TriMesh_ArrayKernelT.hh
+-
+OpenMesh/Core/IO/Options.hh
+-
+

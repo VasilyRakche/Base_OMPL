@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Base_OMPL" targetName="Base_OMPL" />
+      <config projectName="Base_OMPL" targetName="fcl_state_check" />
+      <config projectName="Base_OMPL" targetName="parse_om_fcl" />
+      <config projectName="Base_OMPL" targetName="sphere_handle" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad6f672d-cfb1-4b5a-abd9-143b9295a985" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WorkspaceSphere.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sphere_handle/WorkspaceSphere.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_OpenMesh_data.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/get_OpenMesh_data.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-729">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FCL_StateInspection.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FCL_STATE_CHECK/FCL_StateInspection.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_OpenMesh_data.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/get_OpenMesh_data.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="42" />
+              <folding>
+                <element signature="e#162#201#0" expanded="true" />
+                <element signature="e#298#335#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sphere_aproximation.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sphere_handle/Sphere_aproximation.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-444">
+              <caret line="159" selection-start-line="159" selection-end-line="159" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sphere_aproximation.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sphere_handle/Sphere_aproximation.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-729">
+              <caret line="80" column="37" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sphere_handle/main.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FCL_STATE_CHECK/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FCL_isValid</find>
+      <find>ValidityChacker</find>
+      <find>FCL_ifStateValid</find>
+      <find>::rl::math::Real</find>
+      <find>::rl::math::Vector3</find>
+      <find>Viewer</find>
+      <find>explore()</find>
+      <find>workspaceSphere</find>
+      <find>2</find>
+      <find>FCL_DistanceToCollision</find>
+      <find>color</find>
+      <find>radius</find>
+      <find>add</find>
+      <find>VertexIteratorPair</find>
+      <find>calculate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ValidityChacker</replace>
+      <replace>ValidityChecker</replace>
+      <replace>FCL_StateChecker</replace>
+      <replace>double</replace>
+      <replace>Vector3</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FCL_part/cmake-build-debug/header.cpp" />
+        <option value="$PROJECT_DIR$/FCL_part/header.h" />
+        <option value="$PROJECT_DIR$/FCL_part/header.cpp" />
+        <option value="$PROJECT_DIR$/FCL_part/main.cpp" />
+        <option value="$PROJECT_DIR$/FCL_part/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/main.cpp" />
+        <option value="$PROJECT_DIR$/EET_alghorithm" />
+        <option value="$PROJECT_DIR$/FCL_STATE_CHECK/FCL_ifStateValid.h" />
+        <option value="$PROJECT_DIR$/FCL_STATE_CHECK/FCL_ifStateValid.cpp" />
+        <option value="$PROJECT_DIR$/isValid_class.h" />
+        <option value="$PROJECT_DIR$/Sphere_handle /WorkspaceSphereExplorer.h" />
+        <option value="$PROJECT_DIR$/Sphere_handle /WorkspaceSphereExplorer.cpp" />
+        <option value="$PROJECT_DIR$/Sphere_handle /CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Sphere_handle/WorkspaceSphere.cpp" />
+        <option value="$PROJECT_DIR$/Sphere_handle/WorkspaceSphereList.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Sphere_handle/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Sphere_handle/WorkspaceSphereExplorer.h" />
+        <option value="$PROJECT_DIR$/Sphere_handle/Sphere_aproximation.h" />
+        <option value="$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/get_OpenMesh_data.h" />
+        <option value="$PROJECT_DIR$/Sphere_handle/WorkspaceSphereExplorer.cpp" />
+        <option value="$PROJECT_DIR$/FCL_STATE_CHECK/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Sphere_handle/main.cpp" />
+        <option value="$PROJECT_DIR$/FCL_STATE_CHECK/FCL_StateInspection.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/FCL_STATE_CHECK/FCL_StateInspection.cpp" />
+        <option value="$PROJECT_DIR$/Sphere_handle/WorkspaceSphere.h" />
+        <option value="$PROJECT_DIR$/Sphere_handle/WorkspaceSphereList.h" />
+        <option value="$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/get_OpenMesh_data.cpp" />
+        <option value="$PROJECT_DIR$/Sphere_handle/Sphere_aproximation.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="57" />
+    <option name="y" value="21" />
+    <option name="width" value="655" />
+    <option name="height" value="747" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Base_OMPL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Base_OMPL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Base_OMPL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Base_OMPL" type="462c0819:PsiDirectoryNode" />
+              <item name="FCL_STATE_CHECK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Base_OMPL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Base_OMPL" type="462c0819:PsiDirectoryNode" />
+              <item name="Parse_OpenMesh&gt;FCL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Base_OMPL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Base_OMPL" type="462c0819:PsiDirectoryNode" />
+              <item name="Sphere_handle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyALgorithm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Base_OMPL" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Base_OMPL" TARGET_NAME="Base_OMPL" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Base_OMPL" RUN_TARGET_NAME="Base_OMPL" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Base_OMPL" TARGET_NAME="Base_OMPL" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Base_OMPL" RUN_TARGET_NAME="Base_OMPL" />
+    <configuration name="fcl_state_check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Base_OMPL" TARGET_NAME="fcl_state_check" CONFIG_NAME="Debug" />
+    <configuration name="parse_om_fcl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Base_OMPL" TARGET_NAME="parse_om_fcl" CONFIG_NAME="Debug" />
+    <configuration name="sphere_handle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Base_OMPL" TARGET_NAME="sphere_handle" CONFIG_NAME="Debug" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Base_OMPL" />
+      <item itemvalue="Application.fcl_state_check" />
+      <item itemvalue="Application.parse_om_fcl" />
+      <item itemvalue="Application.sphere_handle" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad6f672d-cfb1-4b5a-abd9-143b9295a985" name="Default" comment="" />
+      <created>1532077049791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532077049791</updated>
+      <workItem from="1532077052610" duration="4359000" />
+      <workItem from="1532082779797" duration="8981000" />
+      <workItem from="1532094314545" duration="6371000" />
+      <workItem from="1532101556916" duration="97000" />
+      <workItem from="1532101715592" duration="2957000" />
+      <workItem from="1532327369464" duration="4393000" />
+      <workItem from="1532335766349" duration="10238000" />
+      <workItem from="1532355574194" duration="4848000" />
+      <workItem from="1532412034833" duration="888000" />
+      <workItem from="1532421023978" duration="4915000" />
+      <workItem from="1532428949497" duration="9746000" />
+      <workItem from="1532445656956" duration="1443000" />
+      <workItem from="1532518635880" duration="87000" />
+      <workItem from="1532527534977" duration="5803000" />
+      <workItem from="1532595482610" duration="389000" />
+      <workItem from="1532597408168" duration="2226000" />
+      <workItem from="1532602748643" duration="2905000" />
+      <workItem from="1532608824972" duration="10410000" />
+      <workItem from="1532620291265" duration="958000" />
+      <workItem from="1532682119619" duration="10260000" />
+      <workItem from="1533651051760" duration="289000" />
+      <workItem from="1533790158525" duration="1755000" />
+      <workItem from="1534623263797" duration="1847000" />
+      <workItem from="1535043450549" duration="888000" />
+      <workItem from="1536498570160" duration="4871000" />
+      <workItem from="1536504153404" duration="630000" />
+      <workItem from="1536509535422" duration="1651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="104205000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="21" width="655" height="747" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33753943" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3287037" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.22222222" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.3132716" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3483146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3287037" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33487654" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/get_OpenMesh_data.h</url>
+          <line>18</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/get_OpenMesh_data.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#162#201#0" expanded="true" />
+            <element signature="e#298#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FCL_isValid/trial.cpp" />
+    <entry file="file://$PROJECT_DIR$/FCL_isValid/trial.h" />
+    <entry file="file://$PROJECT_DIR$/FCL_isValid/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/FCL_part/cmake-build-debug/header.cpp" />
+    <entry file="file://$PROJECT_DIR$/FCL_part/header.cpp" />
+    <entry file="file://$PROJECT_DIR$/FCL_part/header.h" />
+    <entry file="file://$PROJECT_DIR$/FCL_part/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/FCL_part/CMakeLists.txt" />
+    <entry file="file:///usr/include/c++/5/bits/shared_ptr.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/omplapp/include/ompl/base/StateValidityChecker.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FCL_STATE_CHECK/FCL_ifStateValid.h" />
+    <entry file="file://$PROJECT_DIR$/FCL_STATE_CHECK/FCL_ifStateValid.cpp" />
+    <entry file="file:///usr/include/c++/5/bits/valarray_before.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10530">
+          <caret line="702" column="34" selection-start-line="702" selection-start-column="34" selection-end-line="702" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/omplapp/include/ompl/base/SpaceInformation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6465">
+          <caret line="431" column="18" selection-start-line="431" selection-start-column="18" selection-end-line="431" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere_handle /WorkspaceSphereExplorer.h" />
+    <entry file="file://$PROJECT_DIR$/Sphere_handle /WorkspaceSphereExplorer.cpp" />
+    <entry file="file://$PROJECT_DIR$/Sphere_handle /CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/Sphere_handle/WorkspaceSphereList.cpp" />
+    <entry file="file:///usr/include/c++/5/bits/stl_pair.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="100" column="10" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/fcl-0.5.0/src/distance.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/eigen3/Eigen/src/Core/Matrix.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6750">
+          <caret line="450" column="54" selection-start-line="450" selection-start-column="54" selection-end-line="450" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/OpenMesh/Core/Utils/Property.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7290">
+          <caret line="486" column="7" selection-start-line="486" selection-start-column="7" selection-end-line="486" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/OpenMesh/Core/Mesh/AttribKernelT.hh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/eigen3/Eigen/src/Core/CommaInitializer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/fcl/collision_data.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/boost/graph/detail/adjacency_list.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24000">
+          <caret line="1600" column="4" selection-start-line="1600" selection-start-column="4" selection-end-line="1600" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isValid_class.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere_handle/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="86" selection-start-line="12" selection-start-column="86" selection-end-line="12" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FCL_STATE_CHECK/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EET_alghorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere_handle/WorkspaceSphereExplorer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="150" column="38" selection-start-line="150" selection-start-column="38" selection-end-line="150" selection-end-column="38" />
+          <folding>
+            <element signature="e#1498#1513#0" expanded="true" />
+            <element signature="e#1742#1770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere_handle/WorkspaceSphere.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere_handle/WorkspaceSphereList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere_handle/WorkspaceSphereExplorer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="e#1408#1425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FCL_STATE_CHECK/FCL_StateInspection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="68" column="53" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FCL_STATE_CHECK/FCL_StateInspection.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/get_OpenMesh_data.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/get_OpenMesh_data.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <element signature="e#162#201#0" expanded="true" />
+            <element signature="e#298#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere_handle/Sphere_aproximation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-444">
+          <caret line="159" selection-start-line="159" selection-end-line="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere_handle/Sphere_aproximation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere_handle/WorkspaceSphere.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729">
+          <caret line="80" column="37" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sphere_handle/main.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parse_OpenMesh&gt;FCL/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FCL_STATE_CHECK/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
