@@ -1,5 +1,5 @@
 ## EET_Algorithm
-
+<img align="right" src="https://user-images.githubusercontent.com/30003101/46246109-51baad00-c401-11e8-9599-c25231e24423.png">
 
 ###  Exploring/Exploiting Tree
 EET Algorithm using C++
